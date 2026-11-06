@@ -73,19 +73,36 @@ Senior Frontend-разработчик. Строю быстрые и надёж�
 
 ## 📌 Избранные проекты
 
-<p align="center">
-  <a href="https://github.com/comp-master-byte/ANGULAR-star-wars"><img src="https://github-readme-stats.vercel.app/api/pin/?username=comp-master-byte&repo=ANGULAR-star-wars&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=7C3AED&text_color=94A3B8" alt="ANGULAR-star-wars" /></a>
-  <a href="https://github.com/comp-master-byte/VUE-incidents"><img src="https://github-readme-stats.vercel.app/api/pin/?username=comp-master-byte&repo=VUE-incidents&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=7C3AED&text_color=94A3B8" alt="VUE-incidents" /></a>
-  <a href="https://github.com/comp-master-byte/JWT-authorization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=comp-master-byte&repo=JWT-authorization&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=7C3AED&text_color=94A3B8" alt="JWT-authorization" /></a>
-  <a href="https://github.com/comp-master-byte/webpack-config"><img src="https://github-readme-stats.vercel.app/api/pin/?username=comp-master-byte&repo=webpack-config&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=7C3AED&text_color=94A3B8" alt="webpack-config" /></a>
-</p>
-
-## 📊 Активность
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=comp-master-byte&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=7C3AED&text_color=94A3B8&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comp-master-byte&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8" alt="Top languages" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/comp-master-byte/ANGULAR-star-wars">ANGULAR-star-wars</a></h3>
+      <p>Приложение на Angular по вселенной Star Wars</p>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/comp-master-byte/VUE-incidents">VUE-incidents</a></h3>
+      <p>Приложение для работы с инцидентами на Vue</p>
+      <img src="https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/comp-master-byte/JWT-authorization">JWT-authorization</a></h3>
+      <p>Авторизация на JWT: access и refresh токены</p>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/comp-master-byte/webpack-config">webpack-config</a></h3>
+      <p>Конфигурация сборки на Webpack с нуля</p>
+      <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" alt="Webpack" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1E3A8A,100:0F172A&height=110&section=footer" alt="" />
