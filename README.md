@@ -1,76 +1,92 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:7C3AED&height=190&section=header&text=Karen%20Akopyan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Frontend%20Developer&descAlignY=58&descSize=18" alt="Profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:7C3AED&height=220&section=header&text=Karen%20Akopyan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Frontend%20Developer%20%C2%B7%20Angular%20%C2%B7%20React&descAlignY=58&descSize=18" alt="Karen Akopyan — Senior Frontend Developer" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/comp-master-byte">
-    <img src="https://img.shields.io/badge/GitHub-comp--master--byte-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Saint%20Petersburg-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Saint Petersburg" />
-  <img src="https://komarev.com/ghpvc/?username=comp-master-byte&style=for-the-badge&color=7C3AED" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=Frontend+architecture+for+high-load+products;Real-time%2C+WebSocket%2C+gRPC%2C+Web+Workers;Angular+Signals+%2B+RxJS+%C2%B7+React+%2B+Redux+Toolkit;Micro-frontends+%C2%B7+Electron+%C2%B7+Accessibility" alt="Typing intro" />
 </div>
 
-<h1 align="center">Привет, я Карэн Акопьян</h1>
-
 <p align="center">
-  Senior Frontend разработчик. Создаю быстрые и удобные приложения
-  на <strong>Angular</strong>, <strong>Vue</strong>, <strong>React</strong>, <strong>TypeScript</strong> и <strong>Next.js</strong>.
+  <a href="https://github.com/comp-master-byte"><img src="https://img.shields.io/badge/GitHub-comp--master--byte-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Санкт--Петербург-1E3A8A?style=flat-square&logo=googlemaps&logoColor=white" alt="Saint Petersburg" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 ---
 
-### Обо мне
+## 👋 Обо мне
 
-- Люблю превращать сложные пользовательские сценарии в понятные интерфейсы.
-- Уверенно работаю с архитектурой frontend-приложений, дизайн-системами и производительностью.
-- Пишу на JavaScript / TypeScript / React / Angular / Vue
+Senior Frontend-разработчик. Строю быстрые и надёжные интерфейсы для продуктов с большой аудиторией: real-time, сетевой слой, микрофронтенды, desktop на Electron.
 
-### Технологии
+Последние годы разрабатываю корпоративный мессенджер на 200 тыс. пользователей. Начинал в команде ядра (лента сообщений, чаты, real-time, сетевой слой), затем лидил направление Web/Desktop в команде ботов и мини-приложений.
+
+## 📈 Результаты в цифрах
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><h3>200K</h3><sub>пользователей<br/>в мессенджере</sub></td>
+    <td align="center" width="25%"><h3>450 → 300 мс</h3><sub>отправка сообщения<br/>после выноса сети в Web Worker</sub></td>
+    <td align="center" width="25%"><h3>100+</h3><sub>мини-приложений<br/>от 10+ продуктов за 2 квартала</sub></td>
+    <td align="center" width="25%"><h3>60 → 90</h3><sub>Lighthouse<br/>Accessibility</sub></td>
+  </tr>
+</table>
+
+## 🛠 Чем занимался
+
+- **Сервис аудио/видеозвонков на Angular 17+.** Реактивное состояние звонка на Signals (таймер, статус собеседника, качество связи), потоки событий на RxJS.
+- **Сетевой слой в Web Worker.** gRPC, WebSocket и SSE вне главного потока, автопереподключение и повторная отправка — потери сообщений почти до нуля.
+- **Платформа мини-приложений.** Web (iframe, React, Redux Toolkit) и Desktop (Electron, IPC, preload) — встроенные приложения других продуктов внутри мессенджера.
+- **JS Bridge.** Протокол общения мини-приложения с мессенджером на чистом JavaScript.
+- **Доступность.** Клавиатурная навигация, скринридеры, ARIA и семантическая разметка.
+- **Менторинг.** Онбординг стажёра, который прошёл испытательный срок и остался в команде.
+
+## 🧰 Стек
+
+<table>
+  <tr>
+    <td><b>Angular</b></td>
+    <td>Angular 17+, standalone components, Signals, signal-based inputs, RxJS, toSignal / toObservable</td>
+  </tr>
+  <tr>
+    <td><b>React</b></td>
+    <td>React 18/19, Hooks, React Router, Redux Toolkit, TanStack Query, react-i18next</td>
+  </tr>
+  <tr>
+    <td><b>Платформа</b></td>
+    <td>TypeScript, JavaScript (ES6+), Electron, Web Workers, Module Federation, Webpack</td>
+  </tr>
+  <tr>
+    <td><b>Сеть</b></td>
+    <td>REST, gRPC, GraphQL, WebSocket, SSE</td>
+  </tr>
+  <tr>
+    <td><b>Качество</b></td>
+    <td>Jest, React Testing Library, Cypress, Playwright, Storybook, ESLint, Prettier, Jenkins</td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,electron,redux,webpack,vite,jest,vue,nextjs,nodejs,sass,tailwind,git,figma&perline=8" alt="Tech stack" />
+</p>
+
+## 📌 Избранные проекты
+
+<p align="center">
+  <a href="https://github.com/comp-master-byte/ANGULAR-star-wars"><img src="https://github-readme-stats.vercel.app/api/pin/?username=comp-master-byte&repo=ANGULAR-star-wars&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=7C3AED&text_color=94A3B8" alt="ANGULAR-star-wars" /></a>
+  <a href="https://github.com/comp-master-byte/VUE-incidents"><img src="https://github-readme-stats.vercel.app/api/pin/?username=comp-master-byte&repo=VUE-incidents&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=7C3AED&text_color=94A3B8" alt="VUE-incidents" /></a>
+  <a href="https://github.com/comp-master-byte/JWT-authorization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=comp-master-byte&repo=JWT-authorization&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=7C3AED&text_color=94A3B8" alt="JWT-authorization" /></a>
+  <a href="https://github.com/comp-master-byte/webpack-config"><img src="https://github-readme-stats.vercel.app/api/pin/?username=comp-master-byte&repo=webpack-config&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=7C3AED&text_color=94A3B8" alt="webpack-config" /></a>
+</p>
+
+## 📊 Активность
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=comp-master-byte&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=7C3AED&text_color=94A3B8&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comp-master-byte&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8" alt="Top languages" />
+</p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,angular,react,nextjs,nodejs,redux,vue,html,css,sass,tailwind,webpack,vite,git,github,figma&perline=9" alt="Tech stack" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1E3A8A,100:0F172A&height=110&section=footer" alt="" />
 </div>
-
-### Чем могу быть полезен
-
-```ts
-const profile = {
-  role: 'Senior Frontend Developer',
-  focus: ['Frontend architecture', 'UI engineering', 'Performance', 'Developer Experience'],
-  stack: ['Angular', 'React', 'TypeScript', 'Next.js', 'Node.js'],
-  approach: 'Clean code, thoughtful UX, stable delivery',
-};
-```
-
-### Избранные проекты
-
-<div align="center">
-  <a href="https://github.com/comp-master-byte/ANGULAR-star-wars">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=comp-master-byte&repo=ANGULAR-star-wars&theme=tokyonight&hide_border=true" alt="Angular Star Wars repository" />
-  </a>
-  <a href="https://github.com/comp-master-byte/VUE-incidents">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=comp-master-byte&repo=VUE-incidents&theme=tokyonight&hide_border=true" alt="Vue incidents repository" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/comp-master-byte/JWT-authorization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=comp-master-byte&repo=JWT-authorization&theme=tokyonight&hide_border=true" alt="JWT authorization repository" />
-  </a>
-  <a href="https://github.com/comp-master-byte/webpack-config">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=comp-master-byte&repo=webpack-config&theme=tokyonight&hide_border=true" alt="Webpack config repository" />
-  </a>
-</div>
-
-### GitHub статистика
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=comp-master-byte&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comp-master-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=comp-master-byte&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
----
