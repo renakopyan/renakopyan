@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/comp-master-byte"><img src="https://img.shields.io/badge/GitHub-comp--master--byte-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/renakopyan"><img src="https://img.shields.io/badge/GitHub-renakopyan-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Санкт--Петербург-1E3A8A?style=flat-square&logo=googlemaps&logoColor=white" alt="Saint Petersburg" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white" alt="React" />
@@ -76,13 +76,13 @@ Senior Frontend-разработчик. Строю быстрые и надёж�
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/comp-master-byte/ANGULAR-star-wars">ANGULAR-star-wars</a></h3>
+      <h3><a href="https://github.com/renakopyan/ANGULAR-star-wars">ANGULAR-star-wars</a></h3>
       <p>Приложение на Angular по вселенной Star Wars</p>
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/comp-master-byte/VUE-incidents">VUE-incidents</a></h3>
+      <h3><a href="https://github.com/renakopyan/VUE-incidents">VUE-incidents</a></h3>
       <p>Приложение для работы с инцидентами на Vue</p>
       <img src="https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -90,13 +90,13 @@ Senior Frontend-разработчик. Строю быстрые и надёж�
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/comp-master-byte/JWT-authorization">JWT-authorization</a></h3>
+      <h3><a href="https://github.com/renakopyan/JWT-authorization">JWT-authorization</a></h3>
       <p>Авторизация на JWT: access и refresh токены</p>
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/comp-master-byte/webpack-config">webpack-config</a></h3>
+      <h3><a href="https://github.com/renakopyan/webpack-config">webpack-config</a></h3>
       <p>Конфигурация сборки на Webpack с нуля</p>
       <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" alt="Webpack" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
